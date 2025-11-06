@@ -1,4 +1,4 @@
-<h1 align="center">WebEquipo11</h1>
+<h1 align="center">Equipo NEXUS</h1>
 **Calzando a México**: Sistema de gestión para zapatería.
 
 ## Descripción
