@@ -46,7 +46,7 @@ Su objetivo es gestionar de forma eficiente las operaciones de personal, inventa
 
 - [@Monroy](https://github.com/ErickMonroy) 
 - [@Ivette](https://github.com/MichelIvette)  
-
+- Ing. Isidro López 
 
 ---
 
@@ -58,4 +58,4 @@ Versión terminada con base a las áreas de oportunidad para la zapatería calza
 ---
 
 ## Licencia
-
+Este proyecto es de uso educativo bajo los términos del MIT License.
