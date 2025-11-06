@@ -30,7 +30,7 @@ Su objetivo es gestionar de forma eficiente las operaciones de personal, inventa
 ## Tablas de la Base de Datos
 
 - **Personal**: Información del personal interno y externo de la empresa (organigrama).
-- **Productos**: Datos de los productos que se manejan usandu SKU.
+- **Productos**: Datos de los productos que se manejan usando los SKU pertinentes.
 - **Inventario y ventas**: Registro de inventario para los produtos dentro de las tiendas.
 
 ----
